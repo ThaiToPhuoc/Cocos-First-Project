@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_Dealer_DealCard",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "hand-card": {
+        "props": {
+          "opacity": [],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "hand-normal": {
+        "props": {
+          "opacity": [],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "hand-close": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 8
+            },
+            {
+              "frame": 0.1,
+              "value": 5
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": -5
+            },
+            {
+              "frame": 0.4,
+              "value": 5
+            }
+          ]
+        }
+      },
+      "hand-open": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.3,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

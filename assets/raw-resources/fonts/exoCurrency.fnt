@@ -1,0 +1,59 @@
+info face="Exo Black" size=60 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=-2,-2
+common lineHeight=83 base=61 scaleW=1024 scaleH=128 pages=1 packed=0
+page id=0 file="exoCurrency.png"
+chars count=23
+char id=0       x=684  y=0    width=38   height=38   xoffset=1    yoffset=26   xadvance=42   page=0    chnl=0 
+char id=10      x=0    y=0    width=0    height=0    xoffset=-2   yoffset=0    xadvance=2    page=0    chnl=0 
+char id=32      x=0    y=0    width=0    height=0    xoffset=-2   yoffset=0    xadvance=17   page=0    chnl=0 
+char id=36      x=0    y=0    width=36   height=60   xoffset=0    yoffset=9    xadvance=39   page=0    chnl=0 
+char id=43      x=598  y=0    width=32   height=32   xoffset=2    yoffset=24   xadvance=39   page=0    chnl=0 
+char id=44      x=630  y=0    width=15   height=20   xoffset=0    yoffset=49   xadvance=17   page=0    chnl=0 
+char id=45      x=645  y=0    width=24   height=15   xoffset=-1   yoffset=36   xadvance=23   page=0    chnl=0 
+char id=46      x=669  y=0    width=15   height=15   xoffset=0    yoffset=49   xadvance=17   page=0    chnl=0 
+char id=48      x=252  y=0    width=39   height=50   xoffset=0    yoffset=14   xadvance=40   page=0    chnl=0 
+char id=49      x=461  y=0    width=24   height=49   xoffset=-1   yoffset=14   xadvance=25   page=0    chnl=0 
+char id=50      x=485  y=0    width=36   height=49   xoffset=0    yoffset=14   xadvance=37   page=0    chnl=0 
+char id=51      x=72   y=0    width=35   height=50   xoffset=0    yoffset=14   xadvance=37   page=0    chnl=0 
+char id=52      x=521  y=0    width=41   height=49   xoffset=-1   yoffset=14   xadvance=40   page=0    chnl=0 
+char id=53      x=107  y=0    width=36   height=50   xoffset=0    yoffset=14   xadvance=38   page=0    chnl=0 
+char id=54      x=143  y=0    width=36   height=50   xoffset=0    yoffset=14   xadvance=38   page=0    chnl=0 
+char id=55      x=562  y=0    width=36   height=49   xoffset=-1   yoffset=14   xadvance=36   page=0    chnl=0 
+char id=56      x=179  y=0    width=37   height=50   xoffset=0    yoffset=14   xadvance=39   page=0    chnl=0 
+char id=57      x=216  y=0    width=36   height=50   xoffset=0    yoffset=14   xadvance=38   page=0    chnl=0 
+char id=66      x=332  y=0    width=38   height=49   xoffset=1    yoffset=14   xadvance=41   page=0    chnl=0 
+char id=69      x=36   y=0    width=36   height=50   xoffset=1    yoffset=14   xadvance=38   page=0    chnl=0 
+char id=70      x=425  y=0    width=36   height=49   xoffset=1    yoffset=14   xadvance=38   page=0    chnl=0 
+char id=75      x=291  y=0    width=41   height=49   xoffset=1    yoffset=14   xadvance=42   page=0    chnl=0 
+char id=77      x=370  y=0    width=55   height=49   xoffset=0    yoffset=14   xadvance=57   page=0    chnl=0 
+kernings count=31
+kerning first=75 second=70 amount=-1
+kerning first=55 second=44 amount=-5
+kerning first=44 second=49 amount=-4
+kerning first=70 second=69 amount=-1
+kerning first=55 second=46 amount=-5
+kerning first=69 second=69 amount=-1
+kerning first=70 second=45 amount=-1
+kerning first=70 second=44 amount=-3
+kerning first=45 second=50 amount=-1
+kerning first=70 second=70 amount=-1
+kerning first=55 second=52 amount=-3
+kerning first=69 second=70 amount=-1
+kerning first=70 second=46 amount=-3
+kerning first=45 second=55 amount=-2
+kerning first=70 second=55 amount=1
+kerning first=46 second=49 amount=-4
+kerning first=52 second=45 amount=1
+kerning first=45 second=52 amount=1
+kerning first=77 second=69 amount=-1
+kerning first=70 second=52 amount=-2
+kerning first=45 second=49 amount=-2
+kerning first=70 second=49 amount=1
+kerning first=52 second=55 amount=-1
+kerning first=44 second=55 amount=-4
+kerning first=77 second=70 amount=-1
+kerning first=75 second=69 amount=-1
+kerning first=75 second=45 amount=-2
+kerning first=55 second=45 amount=-2
+kerning first=44 second=52 amount=-1
+kerning first=53 second=45 amount=1
+kerning first=44 second=57 amount=-1

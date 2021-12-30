@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "scene_loading_open",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "left": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1250
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "right": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1250
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "spr_Background": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

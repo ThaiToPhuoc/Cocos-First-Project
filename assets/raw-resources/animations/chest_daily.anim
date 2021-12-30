@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chest_daily",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.05,
+            "y": 1.05
+          }
+        },
+        {
+          "frame": 0.7833333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.0347672499999987,
+            "y": 1.0347672499999987
+          }
+        },
+        {
+          "frame": 1.5,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

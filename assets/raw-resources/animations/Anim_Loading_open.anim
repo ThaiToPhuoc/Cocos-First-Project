@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_Loading_open",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7222222222222222,
+  "sample": 90,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_right": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                900,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.2777777777777778,
+              "value": [
+                400,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "bg_left": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -900,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.2777777777777778,
+              "value": [
+                -400,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "AcePokerJoker_logo": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5888888888888889,
+              "value": 50
+            },
+            {
+              "frame": 0.6555555555555556,
+              "value": 200
+            },
+            {
+              "frame": 0.7222222222222222,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.8,
+                "y": 1.8
+              }
+            },
+            {
+              "frame": 0.5888888888888889,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.7,
+                "y": 1.7
+              }
+            },
+            {
+              "frame": 0.7222222222222222,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        },
+        "comps": {
+          "UFXPointLight": {
+            "enableTimer": [
+              {
+                "frame": 0.7222222222222222,
+                "value": true
+              }
+            ]
+          }
+        }
+      },
+      "spr_Background": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

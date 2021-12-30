@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed028438-1b16-4d4b-9f0f-93103ec29122",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 303,
+  "height": 309,
+  "platformSettings": {},
+  "subMetas": {
+    "ChipsDailyReward-Day5": {
+      "ver": "1.0.4",
+      "uuid": "62b7ccf7-5736-443e-90ab-cacd658700eb",
+      "rawTextureUuid": "ed028438-1b16-4d4b-9f0f-93103ec29122",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -33.5,
+      "trimX": 62,
+      "trimY": 82,
+      "width": 181,
+      "height": 212,
+      "rawWidth": 303,
+      "rawHeight": 309,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

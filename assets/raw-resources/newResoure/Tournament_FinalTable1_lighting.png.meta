@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f7d6152-165b-4038-9804-fb8a585c40a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 350,
+  "platformSettings": {},
+  "subMetas": {
+    "Tournament_FinalTable1_lighting": {
+      "ver": "1.0.4",
+      "uuid": "811bd4ad-18b5-43f1-a7bc-2044d2336269",
+      "rawTextureUuid": "9f7d6152-165b-4038-9804-fb8a585c40a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 700,
+      "height": 350,
+      "rawWidth": 700,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

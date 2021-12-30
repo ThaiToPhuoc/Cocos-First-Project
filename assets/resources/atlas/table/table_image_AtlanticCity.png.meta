@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "94cfa062-e244-43cf-a0dc-4e7cbb8060bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 320,
+  "height": 320,
+  "platformSettings": {},
+  "subMetas": {
+    "table_image_AtlanticCity": {
+      "ver": "1.0.4",
+      "uuid": "df57adcb-4066-4939-9342-d5f421ca8f2a",
+      "rawTextureUuid": "94cfa062-e244-43cf-a0dc-4e7cbb8060bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 320,
+      "height": 320,
+      "rawWidth": 320,
+      "rawHeight": 320,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
